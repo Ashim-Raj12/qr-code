@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Live Site](glistening-cobbler-cb84df.netlify.app)
+- Live Site URL: [Live Site](https://glistening-cobbler-cb84df.netlify.app)
 
 ### Built with
 
